@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ### 👋 Hi there, I'm Fady! 
 
 I'm a **Full-Stack Developer** passionate about crafting clean, high-performance web applications and building efficient terminal-based (CLI/TUI) tools. I thrive on creating scalable solutions and optimizing minimalist development workflows.
