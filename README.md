@@ -32,3 +32,11 @@ I'm a **Full-Stack Developer** passionate about crafting clean, high-performance
 [![](https://komarev.com/ghpvc/?username=fadyemad1555&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadyemad1555/fadyemad1555/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadyemad1555/fadyemad1555/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fadyemad1555/fadyemad1555/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
